@@ -66,6 +66,13 @@ const app = {
     // sliderIndex: 0,
     songsData : [
         {
+            background: './assets/img/songs/17.webp',
+            name: 'Có chơi có chịu',
+            singer: 'Karik , Only C',
+            pathSong: './assets/music/list-song/17.mp3',
+            duration : '04:46',
+        },
+        {
             background: './assets/img/songs/0.webp',
             name: 'Anh Đã Lạc Vào',
             singer: 'Green, Đại Mèo Remix',
